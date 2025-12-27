@@ -51,11 +51,11 @@ With hands-on experience in **offensive and defensive security**, I specialize i
 | Project | Description | Tools |
 |----------|--------------|-------|
 | **[My Private XDR & SIEM Simulation with Wazuh](https://fiazhackshield.github.io/wazuh-siem-lab)** | End-to-end private XDR/SIEM lab using Wazuh, Kibana, and Suricata. Includes custom GUI for step-by-step learning. | Wazuh, ELK, VMware, Ubuntu, Windows |
-| **Azure Cybersecurity Trap** | Built honeypots in Azure using T-Pot for malware detection and telemetry collection. | Azure, T-Pot, NSG Rules, IDS/IPS |
-| **Malware Detection with YARA Rules** | Automated static and dynamic malware identification pipeline. | YARA, PEStudio, Procmon, VirusTotal |
+| **[Azure Cybersecurity Trap](https://fiazhackshield.github.io/azure-honeypot/)** | Built honeypots in Azure using T-Pot for malware detection and telemetry collection. | Azure, T-Pot, NSG Rules, IDS/IPS |
+| **[Malware Detection with YARA Rules](https://fiazhackshield.github.io/yara-malware-lab/)** | Automated static and dynamic malware identification pipeline. | YARA, PEStudio, Procmon, VirusTotal |
 | **Active Directory Lab Simulation** | Configured enterprise-grade AD DS with GPO, DNS, and LDAP. | VMware, Windows Server, RSAT, PowerShell |
-| **Network Risk Assessment using Nessus** | Hands-on vulnerability scanning, port enumeration, and service analysis. | Nessus, Nmap, Wireshark |
-| **Operation ClickBait (Email Attack Analysis)** | Built phishing detection lab with Suricata, Snort, ClamAV, and MISP. | Postfix, Snort, Wireshark, VirusTotal |
+| **[Network Risk Assessment using Nessus](https://fiazhackshield.github.io/risk-assessment-nessus/)** | Hands-on vulnerability scanning, port enumeration, and service analysis. | Nessus, Nmap, Wireshark |
+| **[Operation ClickBait (Email Attack Analysis)](https://fiazhackshield.github.io/email-analyze-clickbait/)** | Built phishing detection lab with Suricata, Snort, ClamAV, and MISP. | Postfix, Snort, Wireshark, VirusTotal |
 | **University Network Design (CCNA Project)** | Designed and simulated university network infrastructure. | Cisco Packet Tracer, OSPF, VLAN, NAT |
 
 </details>

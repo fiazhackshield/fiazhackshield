@@ -1,7 +1,7 @@
 # Hi, I'm Fiaz Ahmed  
-### Cybersecurity Engineer | Network Administrator | Developer
+### Cybersecurity Engineer | System Administrator | Network Administrator | Developer
 
-I’m a passionate **Cybersecurity Engineer and Network Administrator** with a strong foundation in **system defense, SIEM engineering, threat detection, and network infrastructure**.  
+I’m a passionate **Cybersecurity Engineer and System Administrator** with a strong foundation in **system defense, SIEM engineering, threat detection, and network infrastructure**.  
 With hands-on experience in **offensive and defensive security**, I specialize in building, securing, and monitoring enterprise-grade environments — both on-premises and in the cloud.
 
 ---
@@ -10,8 +10,8 @@ With hands-on experience in **offensive and defensive security**, I specialize i
 <summary><b>📘 About Me</b></summary>
 
 - 🎓 **B.Sc. in Electronics and Communication Engineering** — Hajee Mohammad Danesh Science and Technology University (2017–2022)  
-- 💼 **Cybersecurity Engineer & Network Administrator** at **Nextech Limited** (2023–Present)  
-- 🛡️ Certified in **CompTIA Security+**, **ISO/IEC 27001:2022 Lead Auditor**, **SOC Level 1**, and **Junior Penetration Testing**  
+- 💼 **Cybersecurity Engineer & System Administrator** at **  Eden Ethos Solutions Limited** (2023–2025)  
+- 🛡️ Certified in **Sal1 Tryhackme**, **CompTIA Security+**, **ISO/IEC 27001:2022 Lead Auditor**, **SOC Level 1**, and **Junior Penetration Testing**  
 - 💬 Focused on **Threat Detection, Incident Response, SIEM, Vulnerability Management, and Network Security Architecture**  
 - 🌍 Based in **Dhaka, Bangladesh**
 

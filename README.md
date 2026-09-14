@@ -92,7 +92,7 @@ With hands-on experience in **offensive and defensive security**, I specialize i
 <summary><b>📫 Connect With Me</b></summary>
 
 - **Email:** [fiaz1424@gmail.com](mailto:fiaz1424@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/fiazahmed](#)  
+- **LinkedIn:** [linkedin.com/in/fiazhackshield](#)  
 - **Portfolio / Projects:** [https://fiazhackshield.github.io/wazuh-siem-lab](https://fiazhackshield.github.io/wazuh-siem-lab)  
 
 </details>
